@@ -52,15 +52,6 @@ Challenge 3
 Create a method that will output to the console the following design. Pay attention to spacing.
 
 
-    * 
-   *** 
-  *****
- *******
-*********
- *******
-  *****
-   ***
-    * 
 
 Tests:
 
