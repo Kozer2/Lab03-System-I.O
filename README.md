@@ -76,7 +76,7 @@ Example: input [5, 25, 99, 123, 78, 96, 555, 108, 4]
 
 return: 555
 Tests: 1. Negative numbers 2. All values are the same
-![Picture Demo](assests/whiteboard.jpg)
+![Picture Demo](assests/whiteboard.jpeg)
 
 Challenge 6
 Write a method that asks the user to input a word, and then saves that word into an external file named words.txt
